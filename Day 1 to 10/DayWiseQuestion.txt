@@ -4,5 +4,6 @@ Day Wise Questions
 2. secLargestInString
 3. rankTransformArray
 4. container, trappingWater
-5. gruopAnagram , climbing stair ,length of last word
+5. gruopAnagram, climbing stair, length of last word
 6. CommonGreatest Divisor
+7. Majority Element, Majority Element-2
