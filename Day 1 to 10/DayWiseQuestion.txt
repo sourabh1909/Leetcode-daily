@@ -7,4 +7,4 @@ Day Wise Questions
 5. gruopAnagram, climbing stair, length of last word
 6. CommonGreatest Divisor
 7. Majority Element, Majority Element-2, best time to sell the stock
-8.
+8. set matrix zero
