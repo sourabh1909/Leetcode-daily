@@ -1,4 +1,4 @@
-Day Wise Questions
+Day Wise Question Solving Did....
 
 1. validPara
 2. secLargestInString
@@ -8,3 +8,5 @@ Day Wise Questions
 6. CommonGreatest Divisor
 7. Majority Element, Majority Element-2, best time to sell the stock
 8. set matrix zero
+9. Reverse LL
+10. Next Greater Element, Daily Temperatures
